@@ -6,3 +6,48 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+// My Styles
+//Background Color class
+.bg-primary {
+  background-color: $PRIMARY_COLOR;
+}
+.bg-secondary {
+  background-color: $SECONDARY_COLOR;
+}
+.bg-light {
+  background-color: $LIGHT_COLOR;
+}
+.bg-dark {
+  background-color: $DARK_COLOR;
+}
+//Text Color class
+.text-primary {
+  color: $PRIMARY_COLOR;
+}
+.text-secondary {
+  color: $SECONDARY_COLOR;
+}
+.text-light {
+  color: $LIGHT_COLOR;
+}
+.text-dark {
+  color: $DARK_COLOR;
+}
+//Button Color class
+.btn-primary {
+  background-color: $PRIMARY_COLOR;
+  border-color: $PRIMARY_COLOR;
+}
+.btn-secondary {
+  background-color: $SECONDARY_COLOR;
+  border-color: $SECONDARY_COLOR;
+}
+.btn-light {
+  background-color: $LIGHT_COLOR;
+  border-color: $LIGHT_COLOR;
+}
+.btn-dark {
+  background-color: $DARK_COLOR;
+  border-color: $DARK_COLOR;
+}
